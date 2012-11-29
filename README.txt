@@ -1,0 +1,1 @@
+Odpalasz przez  WindowsService4 -> KoalaApp.sln
